@@ -45,4 +45,4 @@ if pdf:
 
                 st.write(f"Chunk {i+1}")
 
-                st.write(doc.page_conten
+                st.write(doc.page_content)
